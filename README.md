@@ -1,2 +1,0 @@
-# omegleipget
-have fun
